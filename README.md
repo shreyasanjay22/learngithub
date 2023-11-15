@@ -1,7 +1,8 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: 11/15/2023
+- Facilitator: Madelyn Kapfhammer
+-Name: Shreya 
 
 ## Class Resources
 
